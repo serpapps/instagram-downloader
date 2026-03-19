@@ -12,15 +12,15 @@ Instagram Downloader is a browser extension built for users who want a cleaner w
 
 ## Links
 
-- 🚀 Get it here: [Instagram Downloader](https://serp.ly/instagram-downloader)
-- 🆕 Latest release: [GitHub Releases](https://github.com/serpapps/instagram-downloader/releases/latest)
-- ❓ Help center: [SERP Help](https://help.serp.co/en/)
-- 🐛 Report bugs: [GitHub Issues](https://github.com/serpapps/instagram-downloader/issues)
-- 💡 Request features: [Feature Requests](https://github.com/serpapps/instagram-downloader/issues)
+- ðŸš€ Get it here: [Instagram Downloader](https://serp.ly/instagram-downloader)
+- ðŸ†• Latest release: [GitHub Releases](https://github.com/serpapps/instagram-downloader/releases/latest)
+- â“ Help center: [SERP Help](https://help.serp.co/en/)
+- ðŸ› Report bugs: [GitHub Issues](https://github.com/serpapps/instagram-downloader/issues)
+- ðŸ’¡ Request features: [Feature Requests](https://github.com/serpapps/instagram-downloader/issues)
 
 ## Preview
 
-![Instagram Downloader workflow preview](assets/workflow-preview.svg)
+![Instagram Downloader workflow preview](assets/workflow-preview.webp)
 
 ## Table of Contents
 
