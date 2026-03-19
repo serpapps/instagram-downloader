@@ -137,19 +137,19 @@ Start here: [https://serp.ly/instagram-downloader](https://serp.ly/instagram-dow
 
 ## FAQ
 
-**Can I download Instagram Reels**  
+**Can I download Instagram Reels?**  
 Yes. Reels and supported feed videos can be saved as MP4 files.
 
-**Can I download carousel posts**  
+**Can I download carousel posts?**  
 Yes. The extension can detect and save multiple images from supported carousel posts.
 
-**Does it work with Stories**  
+**Does it work with Stories?**  
 Yes, while the Story is open and visible in the browser.
 
-**Can I save captions too**  
+**Can I save captions too?**  
 Yes. Captions and post text can be exported as TXT files.
 
-**Do I need extra software**  
+**Do I need extra software?**  
 No. Everything runs through the browser extension.
 
 ## Notes
