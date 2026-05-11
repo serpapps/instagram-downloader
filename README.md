@@ -20,7 +20,9 @@ Instagram Downloader is a browser extension built for users who want a cleaner w
 
 ## Preview
 
-![Instagram Downloader workflow preview](assets/workflow-preview.webp)
+<a href="https://www.youtube.com/watch?v=OdAQvJsdEgE" target="_blank">
+<img src="https://raw.githubusercontent.com/devinschumacher/uploads/refs/heads/main/images/instagram-video-downloader-save-videos-before-they-disappear.jpg" width="700px">
+</a>
 
 ## Table of Contents
 
