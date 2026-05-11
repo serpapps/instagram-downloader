@@ -10,6 +10,12 @@ Instagram Downloader is a browser extension built for users who want a cleaner w
 - Bulk-download visible media from the current page
 - Keep local copies of content you can already view in your session
 
+## Watch The Video
+
+<a href="https://www.youtube.com/watch?v=OdAQvJsdEgE" target="_blank">
+<img src="https://raw.githubusercontent.com/devinschumacher/uploads/refs/heads/main/images/instagram-video-downloader-save-videos-before-they-disappear.jpg" width="700px">
+</a>
+
 ## Links
 
 - :rocket: Get it here: [Instagram Downloader](https://serp.ly/instagram-downloader)
@@ -20,7 +26,7 @@ Instagram Downloader is a browser extension built for users who want a cleaner w
 
 ## Preview
 
-![Instagram Downloader workflow preview](assets/workflow-preview.webp)
+![Instagram Downloader workflow preview](https://raw.githubusercontent.com/serpapps/instagram-downloader/refs/heads/main/assets/workflow-preview.webp)
 
 ## Table of Contents
 
