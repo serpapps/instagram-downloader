@@ -1,11 +1,5 @@
 # Instagram Downloader (Browser Extension)
 
-## Watch the video
-
-<a href="https://www.youtube.com/watch?v=OdAQvJsdEgE" target="_blank">
-<img src="https://raw.githubusercontent.com/devinschumacher/uploads/refs/heads/main/images/instagram-video-downloader-save-videos-before-they-disappear.jpg" width="700px">
-</a>
-
 > Download Instagram Reels, posts, Stories, carousels, and captions in one browser workflow.
 
 Instagram Downloader is a browser extension built for users who want a cleaner way to save Instagram content without using third-party copy-paste sites. It detects visible Reels, feed videos, carousel images, Stories, and post text directly in the browser and lets you save them in standard formats for offline reference.
